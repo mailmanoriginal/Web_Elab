@@ -1,4 +1,4 @@
-#Navigation
+# Navigation
 ### A. Login dan Register
 #### Register
 Isi semua hal yang perlu diisi untuk melakukan register.
