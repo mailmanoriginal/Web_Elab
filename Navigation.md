@@ -53,6 +53,6 @@ Halaman Contact Us digunakan untuk menampilkan semua pengembang web dan alamat e
 Halaman lainnya yang terdapat pada header dan footer, seperti News, About, Privacy Policy, dan lain sebagainya belum dapat diselesaikan, sehingga halaman ini diganti dengan halaman Construction yang berada pada notfound.php.
 ![](md_img/sorry_pg.png)
 
-## Catatan
+# Catatan
 *Catatan penting: Kelas yang tersedia untuk melihat teori, case study, dan mengupload file hanya terdapat pada 
 Networking → Network Design → Module1.*
