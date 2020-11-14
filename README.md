@@ -72,4 +72,4 @@ $dBName = "web_database";
 *Catatan penting: Kelas yang tersedia untuk melihat teori, case study, dan mengupload file hanya terdapat pada 
 Networking → Network Design → Module1.*
 ### Catatan
-*Catatan penting: Baca Navgiation.md untuk mengetauhi setiap halaman website.*
+*Catatan penting: Baca [a relative link](Navigaton.md) untuk mengetauhi setiap halaman website.*
