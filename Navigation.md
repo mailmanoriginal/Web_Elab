@@ -1,6 +1,6 @@
-#Navigation
-### A. Login dan Register
-#### Register
+# Navigation
+## A. Login dan Register
+### Register
 Isi semua hal yang perlu diisi untuk melakukan register.
 ![](md_img/reg_input.png)
 
@@ -10,7 +10,7 @@ Jika proses berhasil, user akan diberitahu bahwa register telah berhasil dan dat
 Proses akan gagal jika terdapat kesalahan saat melakukan register.
 ![](md_img/reg_error.png)
 
-#### Login 
+### Login 
 Login dengan username dan password yang telah dibuat saat melakukan register.
 ![](md_img/log_input.png)
 
@@ -20,10 +20,10 @@ Jika berhasil user akan menuju home page website.
 Proses akan gagal jika terdapat kesalahan saat melakukan login.
 ![](md_img/log_error.png)
 
-### B. Menggunakan Website
+## B. Menggunakan Website
 Setelah login berhasil, website akan menuju ke home page, dimana terdapat beberapa hal yang terdapat pada website.
 
-#### Praktikum Online
+### Praktikum Online
 Praktikum online adalah kegunaan utama dari website. Praktiukum online dimulai dengan membuka halaman Labs, diperlukan untuk menekan link "Labs" pada header ataupun menekan tombol "Start Now".
 ![](md_img/click_labs.png)
 
@@ -45,7 +45,7 @@ User juga dapat mengupload pengerjaan case study yang telah user buat. Untuk men
 Setelah file dipilih, diperlukan untuk menekan button "Upload" untuk mengupload file yang telah dipilih.
 ![](md_img/upload_file.png)
 
-#### Feedback
+### Feedback
 User dapat mengirim feedback kepada pengembang website yang dapat dilakukan dengan menekan button "Feedback". Button ini tersedia di footer pada semua halaman, kecuali halaman Login dan Register.
 ![](md_img/feed_foot.png)
 
@@ -58,11 +58,11 @@ Jika berhasil, user akan menuju halaman yang menyatakan bahwa feedback berhasil 
 Jika tidak berhasil dikarenakan error pada saat mengirim, user akan menuju halaman yang menyatakan bahwa pegiriman feedback error.
 ![](md_img/feed_error.png)
 
-#### Contact Us
+### Contact Us
 Halaman Contact Us digunakan untuk menampilkan semua pengembang web dan alamat emailnya.
 ![](md_img/contact_pg.png)
 
-#### Lainnya
+### Lainnya
 Halaman lainnya yang terdapat pada header dan footer, seperti News, About, Privacy Policy, dan lain sebagainya belum dapat diselesaikan, sehingga halaman ini diganti dengan halaman Construction yang berada pada notfound.php.
 ![](md_img/sorry_pg.png)
 
