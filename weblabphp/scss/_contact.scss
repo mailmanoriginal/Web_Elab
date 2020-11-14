@@ -1,0 +1,19 @@
+.contact{
+     color: $darkCyan;
+
+     h1{  
+          margin: 3rem;
+          font-size: 3rem;
+     }
+
+     &__name{
+          margin: 3rem;
+          border-radius: 10px;
+          h2{
+               font-size: 2rem;
+          }
+          a{
+               font-size: 1.5rem;
+          }
+     }
+}

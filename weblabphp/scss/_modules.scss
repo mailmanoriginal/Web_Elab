@@ -1,0 +1,124 @@
+.modules {
+     background-color: $veryLightGray;
+}
+
+.module {
+
+
+     &__content {
+          h2{
+               margin-left: 1.875rem;
+               font-weight: 400;
+               font-size: 2.5rem;
+               color: $darkBlue;
+          }
+     }
+
+     &__button {
+          display: inline-block;
+          width: 80%;
+          margin-top: 2rem;
+          margin-left: 1.875rem;
+          padding: 0.75rem 2.1875rem;
+          background-color: $veryLightGray;
+          border: 3px solid $darkBlue;
+          border-radius: 50px;
+          outline:none;
+          cursor: pointer;
+          text-align: left;
+          font-weight: 300;
+          font-size: $font-lg;
+          color: $darkBlue;
+          transition: all 2.5s;
+     }
+
+}
+
+.module1{
+     background-color: $veryLightGray;
+
+     &__content {
+          h2{
+               margin-left: 1.875rem;
+               margin-top: 2rem;
+               font-weight: 400;
+               font-size: 2.5rem;
+               color: $darkBlue;
+          }
+
+          label {
+               padding: 0.75rem 2.1875rem;
+               background-color: $white;
+               border: 3px solid $darkBlue;
+               border-radius: 50px;
+               margin-top: 2rem;
+               margin-left: 1.875rem;
+               cursor: pointer;
+               font-weight: 300;
+               font-size: $font-lg;
+               color: $darkBlue;
+               transition: 300ms;
+     
+               &:hover{
+                    background-color: $darkBlue;
+                    color: $white;
+               }   
+             }
+             
+             #file-chosen{
+               margin-left: 0.3rem;
+             }
+
+     }
+
+     &__button {
+          display: grid;
+          margin-top: 2rem;
+          margin-left: 1.875rem;
+          padding: 0.75rem 2.1875rem;
+          background-color: $veryLightGray;
+          border: 3px solid $darkBlue;
+          border-radius: 50px;
+          outline:none;
+          cursor: pointer;
+          text-align: left;
+          font-weight: 300;
+          font-size: $font-lg;
+          color: $darkBlue;
+          transition: all 2.5s;
+     }
+
+     &__image{
+          margin-top: 0rem;
+     }
+
+     &__upld {
+          display: grid;
+          padding: 0.75rem 2.1875rem;
+          background-color: $darkBlue;
+          border: 3px solid $darkBlue;
+          border-radius: 50px;
+          margin-left: 1.875rem;
+          margin-top: 2rem;
+          cursor: pointer;
+          font-weight: 100;
+          font-size: $font-sm;
+          color: $white;
+          transition: 300ms;
+
+          &:hover{
+               background-color: $white;
+               color: $darkBlue;
+          }   
+     }
+     
+}
+
+.upload__echo{
+     margin-top: 1.25rem;
+     margin-left: 2.5rem;
+     color: $grayishBlue;
+}
+
+
+

@@ -1,0 +1,117 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+.loginp{
+     height: 100%;
+     width: 100%;
+     background-color: $veryLightGray;
+     background-position: center;
+     background-size: cover;
+     position: absolute;
+
+     &__title{
+
+          h2{
+               text-align: center;
+               margin: 6% auto;
+               color: white;
+               font-size: 37px;
+          }
+
+     }
+
+     &__form{
+          width: 380px;
+          height: 560px;
+          position: relative;
+          margin: 6% auto;
+          background: #3282B8;
+          padding: 5px;
+          border-radius: 12px;
+          overflow: hidden;
+     }
+
+     &__btnbox{
+          width: 220px;
+          margin: 35px auto;
+          position: relative;
+          box-shadow: 0 0 20px 9px $brightCyan;
+          
+          border-radius: 30px;
+     }
+
+     &__button{
+          padding: 10px 30px;
+          cursor: pointer;
+          background: transparent;
+          border: 0;
+          outline: none;
+          position: relative;
+     }
+
+     &__inputs{
+          top: 180px;
+          position: absolute;
+          width: 280px;
+          transition: 500ms;
+     }
+
+     &__input{
+          width: 100%;
+          padding: 10px 0;
+          margin: 10px 0;
+          border: 0;
+          outline: none;
+          background: $veryLightGray;
+          border-radius: 6px;
+     }
+
+     &__submit{
+          width: 85%;
+          padding: 10px 30px;
+          cursor: pointer;
+          display: block;
+          margin: auto;
+          background-color: #3282B8;
+          border: 3px solid $white;
+          border-radius: 50px;
+          font-weight: 100;
+          font-size: $font-sm;
+          color: $white;
+          transition: 300ms;
+
+          &:hover{
+               background-color: $white;
+               color: $darkCyan;
+          }    
+          margin-top: 15px;
+     }
+
+     &__echo{
+          text-align: center;
+          margin-top: 24rem;
+          color: white;
+     }
+
+}
+
+#toggle {
+     top: 0;
+     left: 0;
+     position: absolute;
+     width: 110px;
+     height: 100%;
+     background-color: $white;
+     border-radius: 30px;
+     transition: 500ms;
+}
+
+#login{
+     left: 50px;
+}
+
+#register{
+     left: 450px
+}

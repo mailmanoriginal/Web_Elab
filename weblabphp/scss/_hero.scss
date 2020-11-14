@@ -1,0 +1,69 @@
+.hero {
+     margin-top: 1.25rem;
+     margin-bottom: 1.25rem;
+     background-color: $gray;
+
+     @include breakpoint-up(large){
+          display: flex;
+     }
+
+     &__image {
+          background-size: 15rem;
+          background-repeat: no-repeat;
+          background-position: center center;
+          min-height: 17.5rem;
+
+          @include breakpoint-up(large){
+               flex: 1;
+               order: 2;
+               background-position: center right;
+               background-size: 12.5rem;
+               margin-right: 3.75rem;
+          }
+
+          &::before {
+               background-image: url('/image/');
+          }
+     }
+
+     &__text {
+          text-align: center;
+
+          @include breakpoint-up(large){
+               flex: 1;
+               order: 1;
+               text-align: left;
+               margin-left: 2.5rem;
+          }
+
+          h1{
+               font-weight: 300;
+               font-size: 2.31rem;
+               line-height: 1.15;
+               color: $white;
+               margin-bottom: 1.5rem;
+
+               @include breakpoint-up(large){
+                    font-size: $font-xlg;
+               }
+          }
+
+          p {
+               line-height: 1.5;
+               margin-bottom: 2.25rem;
+               color: $white;
+               
+          }
+
+          a{
+               margin-bottom: 2rem;
+          }
+     }
+
+}
+
+.welcome__name{
+     margin-top: 1.25rem;
+     margin-left: 2.5rem;
+     color: $darkCyan;
+}
