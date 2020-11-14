@@ -80,4 +80,4 @@ Untuk menjalankan database pada local server, ikuti langkah berikut:
 * *Kelas yang tersedia untuk melihat teori, case study, dan mengupload file hanya terdapat pada 
 Networking → Network Design → Module1.*
 
-* *Baca [Navigation.md](Navigtaion.md) untuk melihat halaman yang sudah tersedia.*
+* *Baca [Navigation.md](Navigation.md) untuk melihat halaman yang sudah tersedia.*
