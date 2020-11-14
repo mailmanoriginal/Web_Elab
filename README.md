@@ -1,4 +1,4 @@
-### Anggota
+## Anggota
 * Diaz Ilyasa Azrurrafi Saiful (1806200154) 
 mailmanoriginal@gmail.com
 * Nadhifa Khalisha (1806148800)
@@ -67,3 +67,9 @@ $dBName = "web_database";
 ```
 
 6. Lakukan Register dan Login, lalu website sudah dapat digunakan.
+
+### Catatan
+*Catatan penting: Kelas yang tersedia untuk melihat teori, case study, dan mengupload file hanya terdapat pada 
+Networking → Network Design → Module1.*
+### Catatan
+*Catatan penting: Baca Navgiation.md untuk mengetauhi setiap halaman website.*
