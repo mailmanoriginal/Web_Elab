@@ -73,3 +73,10 @@ Untuk menjalankan database pada local server, ikuti langkah berikut:
      ```
 
 6. Lakukan Register dan Login, lalu website sudah dapat digunakan.
+
+
+# Catatan
+*Catatan penting: Kelas yang tersedia untuk melihat teori, case study, dan mengupload file hanya terdapat pada 
+Networking → Network Design → Module1.*
+
+*Catatan penting: Baca [Navigation.md](Navigtaion.md) untuk melihat halaman yang sudah tersedia.
