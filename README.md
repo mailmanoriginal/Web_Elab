@@ -43,7 +43,7 @@ Untuk menjalankan database pada local server, ikuti langkah berikut:
 1. Menyalakan MySQL pada XAMPP
 ![](md_img/sql_start.png)
 2. Membuka http://localhost/phpmyadmin/ pada bowser
-//image
+![](md_img/php_myadmin.png)
 3. Pada PHPMyAdmin, click "New" untuk menambah database, dan berikan nama "web_database" (click "Create" untuk membuat database tersebut).
 ![](md_img/new_database.png)
 4. Click SQL yang berada pada header PHPMyAdmin dan masukkan command sebagai berikut (click "Go" setelah mengisi command untuk membuat table tersebut).
