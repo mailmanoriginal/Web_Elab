@@ -65,7 +65,7 @@ Untuk menjalankan database pada local server, ikuti langkah berikut:
      ```
      ![](md_img/new_tables.png)
 &nbsp;
-5. Mengganti command pemanggil server pada file dbh.inc.php pada path C:\xampp\htdocs\weblabphp\include untuk memanggil database local server menjadi:
+5. Mengganti command pemanggil server pada file dbh.inc.php pada path C:\xampp\htdocs\weblabphp\include untuk memanggil database local server.
      ```php
      $severName = "localhost";     
      $dBUserName = "root";        
