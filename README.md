@@ -7,8 +7,9 @@ nadhifakhalisaanandra@gmail.com
 nataliakristian03@gmail.com
 
 # Website E-laboratory
-Website E-Laboratory adalah praktikum online yang sudah diintegrasikan pada satu website.
-Website ini dapat memudahkan mahasiswa dalam melakukan praktikum online.
+Website E-Laboratory adalah praktikum online yang sudah diintegrasikan pada satu website. \
+Website ini dapat memudahkan mahasiswa dalam melakukan praktikum online. \
+Dalam pembuatan aplikasi ini, Filosofi yang diterapkan adalah dimana beberapa dari fitur yang disediakan mencangkup dengan adanya interaksi dari manusia dan komputer misalkan User dapat mengetik input ataupun mengklik tombol tombol yang tersedia
 
 # Menjalankan Website
 ## Online
